@@ -1,3 +1,6 @@
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
 - 👋 Hi, I’m @kennedy-mukabi
 - 👀 I’m interested in Backend development,cyber security and Data analysis 
 - 🌱 I’m currently learning how to use various cybesecurity tools available in the industry 
